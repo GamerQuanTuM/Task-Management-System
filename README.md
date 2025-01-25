@@ -106,7 +106,6 @@ api/
 ### Frontend Features
 - Responsive design
 - Form validation
-- Real-time updates
 - Smooth animations
 - Error handling
 - Loading states

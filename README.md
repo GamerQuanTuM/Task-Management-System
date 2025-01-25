@@ -46,7 +46,7 @@ The backend API is built with NestJS and provides the following endpoints:
 - `DELETE /tasks/:id` - Delete a task
 
 ### Database
-- Uses Prisma ORM with SQLite (default) or PostgreSQL
+- Uses Prisma ORM with Mongodb
 - Task model includes:
   - id: String (UUID)
   - title: String
